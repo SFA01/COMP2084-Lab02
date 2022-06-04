@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>COMP2084_Lab2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="C:\Users\saraf\OneDrive\Área de Trabalho\Working Copy.cshtml" Link="Working Copy.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.5" />
+  </ItemGroup>
+
+</Project>
